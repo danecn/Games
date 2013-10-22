@@ -21,7 +21,7 @@ Left click to shoot,
 'R' to restart game
 
 Hangman:
-Two player hangman. One person chooses a word and the otehr guesses. Turns are switched and score is kept.
+Two player hangman. One person chooses a word and the other guesses. Turns are switched and score is kept.
 
 Fermi:
 You must guess a random 3 digit number. Nano means none of the numbers you guessed are in the answer. Pico
